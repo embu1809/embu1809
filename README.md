@@ -67,8 +67,12 @@
 
 ---
 
-## 📈 Visitantes
+## 🗣️ Frase del día
 
-[![](https://visitcount.itsvg.in/api?id=embu1809&icon=9&color=6)](https://visitcount.itsvg.in)
+> "Elige un trabajo que te guste y no tendrás que trabajar ni un día de tu vida".
+## 🏆 GitHub Trophies
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=embu1809&theme=radical&no-frame=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
